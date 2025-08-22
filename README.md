@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🚀 Code Sentinel Tasks  
 
 This repository contains all the tasks completed during the internship.  
@@ -116,3 +117,7 @@ Final web app demonstrates end-to-end AI project deployment.
 # code_sentinel_tasks
 All internship AI/ML tasks including Linear Regression, Classification, Neural Networks, Transfer Learning, and Streamlit Web App.
 >>>>>>> 1909b835888868745a4b61c5b67c55094cb93703
+=======
+# code_sentinel_taskss
+All internship AI/ML tasks including Linear Regression, Classification, Neural Networks, Transfer Learning, and Streamlit Web App.
+>>>>>>> e371b954b80fa2851fc342f7a21c6b1215e6a0c2
